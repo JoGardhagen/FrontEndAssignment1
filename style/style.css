@@ -1,0 +1,14 @@
+body{
+    background-color: #97361d;
+    
+}
+.rocketTour{
+    border: 2px solid #d15f41;
+    width: 520px;
+}
+img{
+    margin-left: 2%;
+}
+.lauchVideoWindow{
+    margin-left: 2%;
+}
