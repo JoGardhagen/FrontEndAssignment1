@@ -1,12 +1,16 @@
 body{
     background-color: #97361d;
     color: #cbc689;
-    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+h2{
+    margin: 2%;
+    padding-top: 50px;
 }
 .rocketTour{
     border: 2px solid #d15f41;
     width: 520px;
-    height: 1100px;
+    height: 1150px;
 }
 img{
     margin-left: 2%;
@@ -37,6 +41,12 @@ select{
     height: 30px;
     margin-left: 2%;
 }
+.travel:hover{
+    background-color: red;
+    color: #cbc689;
+    cursor: pointer;
+    
+}
 p{
     margin-bottom: 1px;
     margin-left: 2%;
@@ -56,4 +66,17 @@ label{
     vertical-align: center;
     position: relative;
     top: -1px;
+}
+.contact{
+    margin-left: 5%;
+}
+a{
+    color: #cbc689;
+}
+a:link{
+    text-decoration: none;
+
+}
+a:hover{
+    color: hotpink;
 }
