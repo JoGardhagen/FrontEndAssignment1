@@ -1,5 +1,6 @@
 body{
     background-color: #97361d;
+    color: #cbc689;
     
 }
 .rocketTour{
@@ -11,4 +12,8 @@ img{
 }
 .lauchVideoWindow{
     margin-left: 2%;
+}
+.vehicle{
+    background-color: #dd5734;
+    
 }
